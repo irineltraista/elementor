@@ -17,4 +17,5 @@ Set elementor content full width while keeping a max size for big screens.
 ```
 
 3. Congrats, you have a limited content width for your elementor containers. 
+
 In order to replicate this for multiple containers, you can assign the id to them.
